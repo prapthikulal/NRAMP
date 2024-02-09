@@ -1,3 +1,1 @@
 sslc markscard
-tc
-adharcard
